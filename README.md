@@ -8,13 +8,13 @@ MLP citation = {
 Oliver Jones 
 SFU Computer Science & Mathematics Major student 
 Recent Graduate
-github repo: https://github.com/Awlee314/neural-net
+github repo: [github repo](https://github.com/Awlee314/neural-net)
 
 
 Allan Zhang
 UBC Computer Science Major Student
-Undergraudated
-github repo: https://github.com/Awlee314/neural-net
+Undergraduate
+github repo: [github repo](https://github.com/Awlee314/neural-net)
 }
 
 ```

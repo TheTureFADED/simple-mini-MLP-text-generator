@@ -1,0 +1,40 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns_en": ["...", "...", "..."],
+            "patterns_zh": ["...", "...", "..."],
+            "responses_en": ["...", "...", "..."],
+            "responses_zh": ["...", "...", "..."]
+        },
+        {
+            "tag": "goodbye",
+            "patterns_en": ["..."],
+            "patterns_zh": ["..."],
+            "responses_en": ["..."],
+            "responses_zh": ["..."]
+        },
+        {
+            "tag": "how_are_you",
+            "patterns_en": ["..."],
+            "patterns_zh": ["..."],
+            "responses_en": ["..."],
+            "responses_zh": ["..."]
+        },
+        {
+            "tag": "user_name",
+            "patterns_en": ["..."],
+            "patterns_zh": ["..."],
+            "responses_en": ["..."],
+            "responses_zh": ["..."]
+        }
+        ,
+        {
+            "tag": "likes",
+            "patterns_en": ["..."],
+            "patterns_zh": ["..."],
+            "responses_en": ["..."],
+            "responses_zh": ["..."]
+        }
+    ]
+}

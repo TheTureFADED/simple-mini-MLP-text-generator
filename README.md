@@ -14,7 +14,8 @@ github repo: https://github.com/Awlee314/neural-net
 Allan Zhang
 UBC Computer Science Major Student
 Undergraudated
-github repo: https://github.com/Awlee314/neural-net}
+github repo: https://github.com/Awlee314/neural-net
+}
 
 ```
 

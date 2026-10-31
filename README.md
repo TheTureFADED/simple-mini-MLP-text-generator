@@ -2,22 +2,19 @@ This is a project to help learning deep learning and foundation of it, but I wou
 
 
 ---
-
+MLP citation
 ```
-MLP citation = {
+
 Oliver Jones 
 SFU Computer Science & Mathematics Major student 
 Recent Graduate
-GitHub repo: [neural-net](https://github.com/Awlee314/neural-net)
-
-
-Allan Zhang
-UBC Computer Science Major Student
-Undergraduate
-GitHub repo: [neural-net](https://github.com/Awlee314/neural-net)
-
-}
-
 ```
 
+```
+Allan Zhang
+UBC Computer Science Major Student
+Undergraduate - 4th year
+```
+
+GitHub repo: [neural-net](https://github.com/Awlee314/neural-net)
 ---
